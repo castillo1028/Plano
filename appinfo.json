@@ -1,0 +1,36 @@
+{
+    "appKeys": {
+        "textColor": 0,
+        "backgroundColor": 1,
+        "twentyFourHourFormat": 2
+        },
+    "capabilities": ["configurable"],
+    "companyName": "Billy Castillo",
+    "longName": "Plano",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/PLANO.png",
+                "menuIcon": true,
+                "name": "IMAGE_IDENTIFIER_PLANO",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Palamecia .ttf",
+                "name": "FONT_PALAMECIA_50",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Plano",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "6acf7c15-5ca0-4d19-a373-5faa5afc2b9f",
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": true
+    }
+}
